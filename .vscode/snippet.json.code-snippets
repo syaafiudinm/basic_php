@@ -1,0 +1,11 @@
+
+	{
+		"PHP Open Tag": {
+			"prefix": "php",
+			"body": [
+				"<?php $1 ?>"
+			],
+			"description": "Open PHP Tag"
+		}
+	}
+	
